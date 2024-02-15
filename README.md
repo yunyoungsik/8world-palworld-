@@ -2,7 +2,7 @@
 <img style="width: 100%;" src="https://www.8world.co.kr/image/meta/8world.jpg" alt="8world.co.kr" />
 <br />
 8World는 Palworld API를 이용하여 Palworld 게임 이용자를 위한<br/>
-팰 정보 및 도감, 교배, 맵 정보를 보여주는 웹사이트 입니다.
+팰 정보 및 도감, 교배 결과 예측, 맵 정보를 보여주는 웹사이트 입니다.
 
 - [www.8world.co.kr](https://www.8world.co.kr)
 - [활용API](https://github.com/mlg404/palworld-paldex-api)

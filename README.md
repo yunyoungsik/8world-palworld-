@@ -13,6 +13,8 @@
 |<img width="150px" src="https://avatars.githubusercontent.com/u/144635640?v=4" />|<img width="150px" src="https://avatars.githubusercontent.com/u/144664895?v=4">|
 
 ## 설치
+<details>
+<summary>Install</summary>
 ```
 npm install papaparse
 npm install @mui/material @emotion/react @emotion/styled
@@ -25,6 +27,7 @@ npm install sass
 npm install @next/third-parties
 npm install --save react-zoom-pan-pinch
 ```
+</details>
 
 ## 기능소개
 - 홈<br/>

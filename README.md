@@ -5,6 +5,7 @@
 <br/>
 
 - [www.8world.co.kr](https://www.8world.co.kr)
+- [https://8world-nine.vercel.app/](https://8world-nine.vercel.app/)
 - [활용API](https://github.com/mlg404/palworld-paldex-api)
 - [참고 사이트](https://paldex.io/)
 
